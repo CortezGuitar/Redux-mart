@@ -1,0 +1,11 @@
+.nav-item {
+  font-size: 1.5rem
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.navbar-brand:hover {
+  opacity: 0.4;
+}

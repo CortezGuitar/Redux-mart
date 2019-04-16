@@ -1,0 +1,14 @@
+.btn {
+  margin-right: 2px;
+}
+
+.table {
+  font-size: 1.1rem;
+}
+
+.total {
+  float: right;
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
